@@ -1,0 +1,9 @@
+E:\GitHub\BinaryDataExtractor\bin\Release\BinaryDataExtractor.exe.config
+E:\GitHub\BinaryDataExtractor\bin\Release\BinaryDataExtractor.exe
+E:\GitHub\BinaryDataExtractor\bin\Release\BinaryDataExtractor.pdb
+E:\GitHub\BinaryDataExtractor\obj\Release\BinaryDataExtractor.csprojResolveAssemblyReference.cache
+E:\GitHub\BinaryDataExtractor\obj\Release\BinaryDataExtractor.Main.resources
+E:\GitHub\BinaryDataExtractor\obj\Release\BinaryDataExtractor.Properties.Resources.resources
+E:\GitHub\BinaryDataExtractor\obj\Release\BinaryDataExtractor.csproj.GenerateResource.Cache
+E:\GitHub\BinaryDataExtractor\obj\Release\BinaryDataExtractor.exe
+E:\GitHub\BinaryDataExtractor\obj\Release\BinaryDataExtractor.pdb
