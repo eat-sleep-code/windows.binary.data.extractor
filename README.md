@@ -5,4 +5,4 @@ This can be very helpful if you are migrating your files from a custom or legacy
 
 Your SQL query must include 'FileName' and 'FileData' as the two column names.   As you can see in the screenshot below, you can attach meaningful data to the file name just include.
 
-![alt tag](http://eat-sleep-code.com/images/screenshots/binary-data-extractor.png)
+![alt tag](https://eat-sleep-code.com/assets/images/screenshots/binary-data-extractor.png)
