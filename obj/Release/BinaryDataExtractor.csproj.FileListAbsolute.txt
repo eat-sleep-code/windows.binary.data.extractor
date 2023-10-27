@@ -7,3 +7,13 @@ E:\GitHub\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.Properti
 E:\GitHub\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.csproj.GenerateResource.Cache
 E:\GitHub\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.exe
 E:\GitHub\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.pdb
+C:\SRC\windows.binary.data.extractor\bin\Release\BinaryDataExtractor.exe.config
+C:\SRC\windows.binary.data.extractor\bin\Release\BinaryDataExtractor.exe
+C:\SRC\windows.binary.data.extractor\bin\Release\BinaryDataExtractor.pdb
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.csproj.AssemblyReference.cache
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.Main.resources
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.Properties.Resources.resources
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.csproj.GenerateResource.cache
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.csproj.CoreCompileInputs.cache
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.exe
+C:\SRC\windows.binary.data.extractor\obj\Release\BinaryDataExtractor.pdb
